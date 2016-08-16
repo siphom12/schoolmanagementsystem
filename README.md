@@ -1,0 +1,2 @@
+# schoolmanagementsystem
+developing a school
